@@ -4,7 +4,6 @@
 
 Submitted by: **Timothy Vo**
 
-Time spent: **3** hours spent in total
 
 ## User Stories
 
